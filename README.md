@@ -1,2 +1,2 @@
 # cleaning-of-wound-with-antiseptic-cloth
-a wound which is cleaned via antiseptic cloth
+A wound which is cleaned via antiseptic cloth rebinds itself quickly.
